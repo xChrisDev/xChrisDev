@@ -38,11 +38,11 @@ Me considero alguien muy curioso, ¡nunca me quedo con la duda! 🤔🔎<br>
 
 #### - Otros 🛠️🧩🔗
 <p align="left">
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" align="left" alt="git" height="42px"/></a>
 </p><br><br>
 
 ### 📞 Contáctame
 <p align="left">
-<a href="https://instagram.com/cg.sar20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cg.sar20" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/chris-sarmiento-casillas" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="cg.sar20" height="30" width="40" /></a>
+<a href="https://instagram.com/cg.sar20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cg.sar20" height="42px" /></a>
+<a href="https://www.linkedin.com/in/chris-sarmiento-casillas" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="cg.sar20" height="42px" /></a>
 </p>
