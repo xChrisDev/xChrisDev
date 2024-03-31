@@ -1,37 +1,50 @@
 <h1 align="center">Hola 👋, Soy Christopher 🎈</h1>
-<h3 align="center">Estudiante de I.S.C. Me encanta crear aplicaciones y probar nuevas tecnologías.</h3>
+<h3 align="center">Estudiante de I.S.C. con interés en el desarrollo Full-Stack 🚀</h3>
 
-- 🌱 Actualmente estoy aprendiendo
-    **Front-End (HTML, CSS y JavaScript) & Back-End(Spring Framework)**
+### **🌱 Actualmente estoy aprendiendo**
+#### Front-End (HTML, CSS y JavaScript) & Back-End(Spring Framework)
 
-- 👨‍💻 Todos mis proyectos están disponibles en
-    [https://github.com/iTzChrisDev](https://github.com/iTzChrisDev)
+#### **📄 Historia personal**
+##### Desde que estaba en secundaria, el mundo de la programación capturó mi atención. Empecé a aprender por pura curiosidad y rápidamente me sumergí en este fascinante mundo. Continué mis estudios en programación durante el bachillerato y luego decidí iniciar una ingeniería en el campo. Durante este tiempo, participé en dos hackatones y colaboré en el desarrollo de algunos proyectos. 💻 Ahora, con una base sólida, estoy decidido a expandir mis conocimientos y alcanzar mi meta de convertirme en un desarrollador Full-Stack. 🚀
 
-- 📄 **Desde que estaba en secundaria, el mundo de la programación capturó mi atención. Empecé a aprender por pura curiosidad y rápidamente me sumergí en este fascinante mundo. Continué mis estudios en programación durante el bachillerato y luego decidí iniciar una ingeniería en el campo. Durante este tiempo, participé en dos hackatones y colaboré en el desarrollo de algunos proyectos. 💻 Ahora, con una base sóliDA, estoy decidido a expandir mis conocimientos y alcanzar mi meta de convertirme en un desarrollador Full-Stack. 🚀**
+### **⚡ Fun fact**
+#### Me considero alguien muy curioso, nunca me quedo con la duda 🤔🔎
 
-- ⚡ Fun fact - 
-    **Me considero alguien muy curioso, nunca me quedo con la duda 🤔🔎**
-
-<h3 align="left">Contacto:</h3>
+#### **Contactame**
 <p align="left">
 <a href="https://instagram.com/cg.sar20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cg.sar20" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/chris-sarmiento-casillas" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="cg.sar20" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Lenguajes y Herramientas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+#### **Tengo conocimientos sobre:**
+##### Programming languages
+<p align="left">
+<a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"><img align="left" alt="C++" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></a>
+<a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+</p>
 
-<!--
-**iTzChrisDev/iTzChrisDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### FrontEnd Development
+###### En proceso de aprendizaje...
+<p align="left">
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="65" height="65"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="65" height="65"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+</p>
 
-Here are some ideas to get you started:
+##### Backend Development
+###### En proceso de aprendizaje...
+<p align="left">
+<a href="https://spring.io/" target="_blank"><img align="left" alt="Spring" height ="42px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Database
+<p align="left">
+<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="Java" height ="42px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></a>
+</p>
+
+##### Others
+<p align="left">
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="" align="left" alt="firebase" height='42px'/> </a>
+</p>
