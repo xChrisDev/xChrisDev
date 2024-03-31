@@ -23,7 +23,7 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank"><img align="left" alt="C++" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></a>
 <a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 </p>
-
+<br>
 ##### FrontEnd Development
 ###### En proceso de aprendizaje...
 <p align="left">
@@ -31,7 +31,7 @@
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="65" height="65"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </p>
-
+<br>
 ##### Backend Development
 ###### En proceso de aprendizaje...
 <p align="left">
