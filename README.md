@@ -1,48 +1,41 @@
-# Hola 👋, Soy Christopher 🎈
-## Estudiante de I.S.C con interés en el desarrollo Full-Stack 🎓👨‍💻🚀
+![Header](./banner.png)
 
-### 📜 Historia personal
-Desde la secundaria, el mundo de la programación capturó mi atención. Comencé a aprender por pura curiosidad y rápidamente me sumergí en este fascinante mundo. Continué mis estudios en programación durante el bachillerato y luego decidí iniciar una ingeniería en el campo. Durante este tiempo, participé en dos hackatones y colaboré en el desarrollo de algunos proyectos. 💻 Ahora, con una base sólida, estoy decidido a expandir mis conocimientos y alcanzar mi meta de convertirme en desarrollador Full-Stack. 🚀
+## Historia personal 📜
 
-### 📚 Actualmente estoy aprendiendo
-- Front-End (HTML 🌐, CSS 🎨 y JavaScript 💻)
-- Back-End (Spring Framework 🍃)
+Desde la escuela secundaria, el mundo de la programación capturó mi atención. Comencé a aprender por pura curiosidad y rápidamente me sumergí en este fascinante mundo. Continué mis estudios en programación durante el bachillerato y luego decidí iniciar una ingeniería en el campo. Durante este tiempo, participé en dos hackatones y colaboré en el desarrollo de algunos proyectos. 💻 Ahora, con una base sólida, estoy decidido a expandir mis conocimientos y alcanzar mi meta de convertirme en desarrollador Full-Stack. 🚀
 
-### 🤓 Dato curioso
-Me considero alguien muy curioso, ¡nunca me quedo con la duda! 🤔🔎<br>
+## Tecnologías 💻
 
-### 🧠 Tengo conocimientos sobre:
-#### - Lenguajes de Programación 💻👨‍💻📝
-<p align="left">
-<a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img align="left" alt="C++" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></a>
-<a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-</p><br><br>
+### Lenguajes de programación 👨‍💻
 
-#### - Desarrollo Front-End (Aprendiendo...) 🌐🖥️🎨
-<p align="left">
-<a href="https://www.w3schools.com/css/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" height="42px"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" height="42px"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="42px"/> </a>
-</p><br><br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br>
 
-#### - Desarrollo Back-End (Aprendiendo...) 🛠️🔙💼
-<p align="left">
-<a href="https://spring.io/" target="_blank"><img align="left" alt="Spring" height ="42px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/></a>
-</p><br><br>
+### Desarrollo de videojuegos 🎮
 
-#### - Base de Datos 🛢️💾🔍
-<p align="left">
-<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="Java" height ="42px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"/></a>
-</p><br><br>
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)<br>
 
-#### - Otros 🛠️🧩🔗
-<p align="left">
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" align="left" alt="git" height="42px"/></a>
-</p><br><br>
+### Bases de datos 💾
 
-### 📞 Contáctame
-<p align="left">
-<a href="https://instagram.com/cg.sar20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cg.sar20" height="42px" /></a>
-<a href="https://www.linkedin.com/in/chris-sarmiento-casillas" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="cg.sar20" height="42px" /></a>
-</p>
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)<br>
+
+### Control de versiones 🚩
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### En proceso de aprendizaje 📚
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)<br>
+
+## Estadisticas 📈
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzchrisdev&layout=compact)
+
+## Contáctame 📞
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-sarmiento-casillas)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/cg.sar20)
