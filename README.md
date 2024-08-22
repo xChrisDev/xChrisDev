@@ -2,7 +2,7 @@
 
 ## Historia personal 📜
 
-Desde la escuela secundaria, el mundo de la programación capturó mi atención. Comencé a aprender por pura curiosidad y rápidamente me sumergí en este fascinante mundo. Continué mis estudios en programación durante el bachillerato y luego decidí iniciar una ingeniería en el campo. Durante este tiempo, participé en dos hackatones y colaboré en el desarrollo de algunos proyectos. 💻 Ahora, con una base sólida, estoy decidido a expandir mis conocimientos y alcanzar mi meta de convertirme en desarrollador Full-Stack. 🚀
+Desde la escuela secundaria, el mundo de la programación capturó mi atención. Comencé a aprender por pura curiosidad y rápidamente me sumergí en este fascinante mundo. Continué mis estudios en programación durante el bachillerato y luego decidí iniciar una ingeniería en el campo. Durante este tiempo, participé en dos hackatones y colaboré en el desarrollo de algunos proyectos. 💻 Ahora, estoy decidido a expandir mis conocimientos y alcanzar mi meta de convertirme en un buen desarrollador de software. 🚀
 
 ## Tecnologías 💻
 
