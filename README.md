@@ -24,7 +24,6 @@ Desde la escuela secundaria, el mundo de la programación capturó mi atención.
 ### Bases de datos 💾
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)<br>
 
 ### Control de versiones 🚩
 
@@ -34,7 +33,8 @@ Desde la escuela secundaria, el mundo de la programación capturó mi atención.
 ### En proceso de aprendizaje 📚
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)<br>
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)<br>
 
 ## Estadisticas 📈
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzchrisdev&layout=compact)
