@@ -12,7 +12,7 @@ Actualmente, estoy enfocado en expandir mis conocimientos y habilidades para alc
 ![Tecnologias](https://skillicons.dev/icons?i=js,php,spring,firebase,flutter&theme=dark)
 
 ## Estadísticas 📈
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzchrisdev&hide_progress=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzchrisdev&hide_progress=true&theme=tokyonight&hide_border=true&text_color=fff&bg_color=242938)
 
 ## Contacto 📞
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/chris-sarmiento-casillas)
