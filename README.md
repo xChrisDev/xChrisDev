@@ -1,7 +1,7 @@
 # 👋 Hola, soy Chris!
-👨‍💻 Entusiasta de la programación y el desarrollo compartiendo mis aprendizajes en tecnología<br/>
-👨‍🎓 Estudiando ISC en el Instituto Tecnologico Superior de Fresnillo, México<br/>
-💭 Actualmente estoy aprendiendo desarrollo web fullstack & mobile<br/>
+👨‍💻 Entusiasta de la programación y el desarrollo compartiendo mis aprendizajes en tecnología.<br/>
+👨‍🎓 Estudiando Ingenieria en Sistemas Computacionales.<br/>
+💭 Actualmente estoy aprendiendo desarrollo web fullstack & mobile.<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=itzchrisdev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&theme=tokyonight&text_color=fff&bg_color=242938&hide_border=true)<br/>
 
