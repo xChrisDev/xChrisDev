@@ -1,5 +1,5 @@
 # 👋 Hola, soy Chris!
-👨‍💻 Entusiasta de la programación y el desarrollo compartiendo mis aprendizajes en tecnología.<br/>
+👨‍💻 Entusiasta de la programación y el desarrollo de software.<br/>
 👨‍🎓 Estudiando Ingenieria en Sistemas Computacionales.<br/>
 💭 Actualmente estoy aprendiendo desarrollo web fullstack & mobile.<br/>
 
