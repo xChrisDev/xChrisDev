@@ -1,29 +1,19 @@
 ![Header](./github-header-image.png)
 
 ## Historia personal 📜
+Desde la escuela secundaria, el mundo de la programación capturó mi atención. Comencé a aprender por pura curiosidad y rápidamente me sumergí en este fascinante mundo. Durante el bachillerato, profundicé mis conocimientos y decidí seguir una ingeniería en el campo. He participado en hackatones, donde he tenido la oportunidad de colaborar y aprender de otros desarrolladores, y he trabajado en proyectos que me han permitido aplicar y ampliar mis habilidades. 💻
 
-Desde la escuela secundaria, el mundo de la programación capturó mi atención. Comencé a aprender por pura curiosidad y rápidamente me sumergí en este fascinante mundo. Continué mis estudios en programación durante el bachillerato y luego decidí iniciar una ingeniería en el campo. Durante este tiempo, participé en dos hackatones y colaboré en el desarrollo de algunos proyectos. 💻 Ahora, estoy decidido a expandir mis conocimientos y alcanzar mi meta de convertirme en un buen desarrollador de software. 🚀
+Actualmente, estoy enfocado en expandir mis conocimientos y habilidades para alcanzar mi objetivo de convertirme en un desarrollador de software. 🚀
 
-## Tecnologías 💻
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## Habilidades Técnicas 💻
+![Tecnologias](https://skillicons.dev/icons?i=java,py,cpp,html,css,bootstrap,godot,mysql,git,github&theme=dark)
 
-## En proceso de aprendizaje 📚
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)<br>
+## Aprendiendo... 📚
+![Tecnologias](https://skillicons.dev/icons?i=js,php,spring,firebase,flutter&theme=dark)
 
-## Estadisticas 📈
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzchrisdev&layout=compact)
+## Estadísticas 📈
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzchrisdev&hide_progress=true&theme=tokyonight&hide_border=true)
 
 ## Contacto 📞
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-sarmiento-casillas)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/cg.sar20)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/chris-sarmiento-casillas)
+[![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/cg.sar20)
