@@ -6,7 +6,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=itzchrisdev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&theme=tokyonight&text_color=fff&bg_color=242938&hide_border=true)<br/>
 
 # Habilidades Técnicas 💻
-![Tecnologias](https://skillicons.dev/icons?i=java,py,cpp,html,css,bootstrap,godot,mysql,git,github&theme=dark)
+![Tecnologias](https://skillicons.dev/icons?i=cpp,html,css,bootstrap,git&theme=dark)<br/>
+![Tecnologias](https://skillicons.dev/icons?i=java,py,godot,mysql,github&theme=dark)
 
 # Aprendiendo... 📚
 ![Tecnologias](https://skillicons.dev/icons?i=js,php,spring,firebase,flutter&theme=dark)
