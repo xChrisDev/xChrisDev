@@ -3,7 +3,8 @@
 👨‍🎓 Estudiando Ingenieria en Sistemas Computacionales.<br/>
 💭 Actualmente estoy aprendiendo desarrollo web fullstack & mobile.<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=itzchrisdev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&theme=tokyonight&text_color=fff&bg_color=242938&hide_border=true)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api?username=itzchrisdev&theme=radical&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&text_color=fff&bg_color=242938)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzchrisdev&langs_count=8&layout=compact&theme=tokyonight&text_color=fff&bg_color=242938&hide_border=true)<br/>
 
 # Habilidades Técnicas 💻
 ![Tecnologias](https://skillicons.dev/icons?i=cpp,html,css,bootstrap,git&theme=dark)<br/>
