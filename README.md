@@ -1,23 +1,29 @@
-# 👋 Hola, soy Chris!
-👨‍💻 Entusiasta de la programación y el desarrollo de software.<br/>
-👨‍🎓 Estudiando Ingenieria en Sistemas Computacionales.<br/>
-💭 Actualmente estoy aprendiendo desarrollo web fullstack & mobile.<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=itzchrisdev&theme=radical&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&text_color=fff&bg_color=242938)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzchrisdev&langs_count=8&layout=compact&theme=tokyonight&text_color=fff&bg_color=242938&hide_border=true)<br/>
+# 👋 ¡Hola, soy Chris!
+<p align="start">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRibGxyZjU5NHo1czVycGNqN21tbjE0YTVqdXNvczV1NDJsZTNxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="160px">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=xchrisdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xchrisdev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+</p>
+<p>💻 Entusiasta de la programación y el desarrollo de software</p>
+<p>🎓 Estudiante de Ingeniería en Sistemas Computacionales</p>
+<p>🚀 Apasionado por el desarrollo web fullstack y mobile</p>
 
-# Habilidades Técnicas 💻
-![Tecnologias](https://skillicons.dev/icons?i=cpp,html,css,bootstrap,git&theme=dark)<br/>
-![Tecnologias](https://skillicons.dev/icons?i=java,py,godot,mysql,github&theme=dark)
+## 💻 **Tecnologías con las que he trabajado**
+  <img src="https://skillicons.dev/icons?i=java,python,php,mysql,firebase,cpp,html,css,js,laravel,react,vue,tailwind,bootstrap,git&theme=dark"/>
 
-# Aprendiendo... 📚
-![Tecnologias](https://skillicons.dev/icons?i=js,php,spring,firebase,flutter&theme=dark)
 
-# Historia personal 📜
-Desde la escuela secundaria, el mundo de la programación capturó mi atención. Comencé a aprender por pura curiosidad y rápidamente me sumergí en este fascinante mundo. Durante el bachillerato, profundicé mis conocimientos y decidí seguir una ingeniería en el campo. He participado en hackatones, donde he tenido la oportunidad de colaborar y aprender de otros desarrolladores, y he trabajado en proyectos que me han permitido aplicar y ampliar mis habilidades. 💻
+## 📜 **Historia personal**
+Desde la escuela secundaria, el mundo de la programación capturó mi atención. Comencé a aprender por curiosidad y rápidamente me sumergí en este fascinante mundo.  
 
-Actualmente, estoy enfocado en expandir mis conocimientos y habilidades para alcanzar mi objetivo de convertirme en un desarrollador de software. 🚀
+Durante el bachillerato, profundicé mis conocimientos y decidí seguir con una ingeniería en el área. He participado en hackatones, donde he tenido la oportunidad de colaborar y aprender de otros desarrolladores, y he trabajado en proyectos que me han permitido aplicar y ampliar mis habilidades.  
 
-# Contacto 📞
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/chris-sarmiento-casillas)
-[![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/cg.sar20)
+Actualmente, estoy enfocado en ampliar mis conocimientos y habilidades para ser mejor desarrollador. 🚀  
+
+## 📞 **Contacto**
+  <a href="https://www.linkedin.com/in/chris-sarmiento-casillas">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
+  </a>
+  <a href="https://instagram.com/cg.sar20">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark"/>
+  </a>
