@@ -12,14 +12,6 @@
 ## 💻 **Tecnologías con las que he trabajado**
   <img src="https://skillicons.dev/icons?i=cpp,java,python,php,mysql,firebase,html,css,js,vite,laravel,react,vue,tailwind,bootstrap,git,godot,androidstudio&theme=dark"/>
 
-
-## 📜 **Historia personal**
-Desde la escuela secundaria, el mundo de la programación capturó mi atención. Comencé a aprender por curiosidad y rápidamente me sumergí en este fascinante mundo.  
-
-Durante el bachillerato, profundicé mis conocimientos y decidí seguir con una ingeniería en el área. He participado en hackatones, donde he tenido la oportunidad de colaborar y aprender de otros desarrolladores, y he trabajado en proyectos que me han permitido aplicar y ampliar mis habilidades.  
-
-Actualmente, estoy enfocado en ampliar mis conocimientos y habilidades para ser mejor desarrollador. 🚀  
-
 ## 📞 **Contacto**
   <a href="https://www.linkedin.com/in/chris-sarmiento-casillas">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
