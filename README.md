@@ -24,6 +24,6 @@ Actualmente, estoy enfocado en ampliar mis conocimientos y habilidades para ser 
   <a href="https://www.linkedin.com/in/chris-sarmiento-casillas">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
   </a>
-  <a href="https://instagram.com/cg.sar20">
+  <a href="https://instagram.com/xchris.py">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark"/>
   </a>
