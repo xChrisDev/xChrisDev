@@ -7,7 +7,7 @@
 </p>
 <p>💻 Entusiasta de la programación y el desarrollo de software</p>
 <p>🎓 Estudiante de Ingeniería en Sistemas Computacionales</p>
-<p>🚀 Apasionado por el desarrollo web fullstack y mobile</p>
+<p>🚀 Apasionado por el desarrollo web fullstack</p>
 
 ## 💻 **Tecnologías con las que he trabajado**
   <img src="https://skillicons.dev/icons?i=cpp,java,python,php,mysql,firebase,html,css,js,vite,laravel,react,vue,tailwind,bootstrap,git,godot,androidstudio&theme=dark"/>
