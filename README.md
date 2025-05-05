@@ -10,7 +10,7 @@
 <p>🚀 Apasionado por el desarrollo web fullstack</p>
 
 ## 💻 **Tecnologías con las que he trabajado**
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,php,mysql,firebase,html,css,js,vite,laravel,react,vue,tailwind,bootstrap,git,godot,androidstudio&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,php,mysql,firebase,html,css,js,fastapi,flask,vite,laravel,react,vue,tailwind,bootstrap,git,godot,androidstudio&theme=dark"/>
 
 ## 📞 **Contacto**
   <a href="https://www.linkedin.com/in/chris-sarmiento-casillas">
