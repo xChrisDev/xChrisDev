@@ -1,9 +1,9 @@
 <h1 align="start">👋 Hi, I'm Chris!</h1>
 
 <p align="start">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRibGxyZjU5NHo1czVycGNqN21tbjE0YTVqdXNvczV1NDJsZTNxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="180px"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xchrisdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xchrisdev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRibGxyZjU5NHo1czVycGNqN21tbjE0YTVqdXNvczV1NDJsZTNxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="160px">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=xchrisdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xchrisdev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## 🧠 About me
@@ -19,8 +19,8 @@
 
 ## 📊 GitHub Stats
 <p align="start">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xchrisdev&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=xchrisdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xchrisdev&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=xchrisdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 📬 Contact
