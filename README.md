@@ -20,7 +20,6 @@
 ## 📊 GitHub Stats
 <p align="start">
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xchrisdev&theme=tokyonight" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=xchrisdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 📬 Contact
