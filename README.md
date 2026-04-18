@@ -31,7 +31,7 @@
 ## 💻 Tech stack
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=cpp,java,python,php,html,css,js,react,vue,vite,tailwind,bootstrap,figma,laravel,fastapi,flask,django,mysql,postgresql,firebase,git,github,docker,androidstudio&theme=dark"
+    src="https://skillicons.dev/icons?i=cpp,java,python,php,html,css,js,react,vue,vite,tailwind,bootstrap,figma,laravel,fastapi,flask,django,mysql,postgresql,firebase,git,github,docker,markdown,astro&theme=dark"
     alt="Tech stack icons"
   />
 </p>
