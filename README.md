@@ -37,8 +37,9 @@
 </p>
 
 <!-- PROJECTS -->
-## ⭐ Featured projects
-- 🌐 CotizadorJOM: https://jommx.net/
+## ⭐ Projects I have worked on
+- 🌐 https://jommx.net/
+- 🌐 https://printekmx.net/
 
 <!-- STATS -->
 ## 📊 GitHub stats
