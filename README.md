@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/xchrisdev/xchrisdev/main/banner.jpg" alt="Hi, I'm Chris — Software Developer & Computer Systems Engineer" width="100%" />
-</div>
-
 ## About me
 
 **Software Developer · Computer Systems Engineer**
