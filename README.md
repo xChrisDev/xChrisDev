@@ -2,32 +2,39 @@
   <img src="https://raw.githubusercontent.com/xchrisdev/xchrisdev/main/main-banner.jpg" alt="Hi, I'm Chris — Software Developer & Computer Systems Engineer" width="100%" />
 </div>
 
-## About me
+## 👋 About me
 
 **Software Developer · Computer Systems Engineer**
-Building web products end-to-end — fullstack + AI enthusiast.
 
-- 💻 Focused on modern web development (frontend + APIs)
-- 🔭 Currently building personal projects and sharpening best practices
+I build web products end-to-end — from idea and UI to API and deployment. I care about clean code, solid fundamentals, and products that actually solve problems.
+
+- 🔭 Building personal projects end-to-end (frontend + APIs)
+- 🧠 Exploring applied AI, LLM integrations, and automation
 - 🤝 Open to collaboration, feedback, and knowledge sharing
-- 🧠 Interested in applied AI and automation
 
-## 💻 Tech stack
+## 🛠️ Tech stack
 
+**Frontend**
 <p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=cpp,java,python,php,html,css,js,react,vue,vite,tailwind,bootstrap,figma,laravel,fastapi,flask,django,mysql,postgresql,firebase,git,github,docker,markdown,astro,linux&theme=dark"
-    alt="Tech stack icons"
-  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,vite,tailwind,bootstrap,astro&theme=dark" alt="Frontend stack" />
 </p>
 
+**Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,fastapi,flask,django,java&theme=dark" alt="Backend stack" />
+</p>
 
-## ⭐ Projects I have worked on
+**Databases & Cloud**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,docker,linux&theme=dark" alt="Databases and cloud" />
+</p>
 
-| Project | |
-|---------|---|
-| 🌐 [jommx.net](https://jommx.net/) | Landing page corporativa |
-| 🌐 [printekmx.net](https://printekmx.net/) | Landing page corporativa |
+**Tools & Platforms**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,markdown&theme=dark" alt="Tools" />
+  <a href="https://dokploy.com"><img src="https://raw.githubusercontent.com/Dokploy/dokploy/canary/apps/dokploy/public/icon-dark.svg" alt="Dokploy" width="48" height="48" /></a>
+  <a href="https://opencode.ai"><img src="https://cdn.simpleicons.org/opencode/ffffff" alt="OpenCode" width="48" height="48" /></a>
+</p>
 
 ## 📬 Contact
 
