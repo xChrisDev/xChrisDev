@@ -16,7 +16,7 @@ I build web products end-to-end — from idea and UI to API and deployment. I ca
 
 **Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,vite,tailwind,bootstrap,astro&theme=dark" alt="Frontend stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nuxt,vite,tailwind,bootstrap,astro&theme=dark" alt="Frontend stack" />
 </p>
 
 **Backend**
@@ -26,12 +26,12 @@ I build web products end-to-end — from idea and UI to API and deployment. I ca
 
 **Databases & Cloud**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,docker,linux&theme=dark" alt="Databases and cloud" />
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql,firebase,docker,linux,debian&theme=dark" alt="Databases and cloud" />
 </p>
 
 **Tools & Platforms**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,markdown&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,markdown,obsidian,cloudflare&theme=dark" alt="Tools" />
   <a href="https://dokploy.com"><img src="https://raw.githubusercontent.com/Dokploy/dokploy/canary/apps/dokploy/public/icon-dark.svg" alt="Dokploy" width="48" height="48" /></a>
   <a href="https://opencode.ai"><img src="https://cdn.simpleicons.org/opencode/ffffff" alt="OpenCode" width="48" height="48" /></a>
 </p>
